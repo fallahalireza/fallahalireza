@@ -1,16 +1,14 @@
-## Hi there 👋
+## Alireza Fallah 👨‍💻
 
-<!--
-**fallahalireza/fallahalireza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full-stack Laravel Developer | 15+ years coding experience
 
-Here are some ideas to get you started:
+- 🔭 Focus: Laravel & PHP Development
+- 🌱 Also working with: JavaScript & Python
+- 💡 Passion: Clean code & scalable systems
+- ⚡ Goal: Building high-quality web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+`PHP` `Laravel` `JavaScript` `Python` `MySQL`
+
+### 📫 Contact
+Open to collaboration and interesting projects.
